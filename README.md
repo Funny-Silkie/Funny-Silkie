@@ -1,10 +1,23 @@
 ### 関連キーワード
 - C#
-- ASP.NET
-- Blazor WebAssembly
+  - ASP.NET
+  - Blazor
 - Python
-- TypeScript
+- Ruby
+  - Ruby on Rails
 - BioInformatics
+
+### 経験言語
+- アプリなど開発経験あり
+  - C#（ライブラリ, CLI app, WinForms, WPF, ASP.NET）
+  - Python（ライブラリ, CLI app）
+  - Ruby（Ruby on Rails）
+- ちょっと触った程度
+  - C
+  - C++
+  - Java
+  - JavaScript / TypeScript
+  - PHP
 
 ### 成果物
 - ソフトウェア・スクリプト
