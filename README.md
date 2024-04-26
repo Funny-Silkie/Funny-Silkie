@@ -18,6 +18,8 @@
   - Java
   - JavaScript / TypeScript
   - PHP
+  - Go
+  - Rust
 
 ### 成果物
 - ソフトウェア・スクリプト
