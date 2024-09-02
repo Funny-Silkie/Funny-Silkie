@@ -35,5 +35,5 @@
   - .NETのLINQをPython3.11に型アノテーション付きで移植　[ソース](https://github.com/Funny-Silkie/pylinq)
   - バイナリシリアライズの処理を流用したJSONシリアライザ（C#）　[ソース](https://github.com/Funny-Silkie/JBSerializer)
 - 参加プロジェクト
-  - Altseed2：ゲームエンジン　[公式リンク](http://altseed.github.io/)　[C#エンジン](https://github.com/altseed/Altseed2-csharp)　[C++コア](https://github.com/altseed/Altseed2)　[Nuget]
-  - AUTOEB：AU検定を用いた系統樹の二分岐評価を行うソフトウェア　[ソース](https://github.com/MEMlabo/AUTOEB)(https://www.nuget.org/packages/Altseed2)
+  - Altseed2：ゲームエンジン　[公式リンク](http://altseed.github.io/)　[C#エンジン](https://github.com/altseed/Altseed2-csharp)　[C++コア](https://github.com/altseed/Altseed2)　[Nuget](https://www.nuget.org/packages/Altseed2)
+  - AUTOEB：AU検定を用いた系統樹の二分岐評価を行うソフトウェア　[ソース](https://github.com/MEMlabo/AUTOEB)
