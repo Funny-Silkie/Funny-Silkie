@@ -1,7 +1,6 @@
 ### 関連キーワード
 - C#
-  - ASP.NET
-  - Blazor
+- Java
 - Python
 - Ruby
   - Ruby on Rails
@@ -12,11 +11,11 @@
   - C#（ライブラリ, CLI app, WinForms, WPF, ASP.NET）
   - Python（ライブラリ, CLI app）
   - Ruby（Ruby on Rails）
+  - Java（SpringBoot）
+  - JavaScript / TypeScript（React）
 - ちょっと触った程度
   - C
   - C++
-  - Java
-  - JavaScript / TypeScript
   - PHP
   - Go
   - Rust
